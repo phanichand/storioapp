@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storyyoapp",
+  "private_key_id": "ec7dcb8150e89d169bc597ba8745d648e86bc084",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnf+iy6nRYBQj9\ndUGitF3XmfZHCYmmBalMiU71Mq9GBv4Yum0OJ5mg2KcpthePEv8RZGEutxj9gXxj\nYDFavYQLff2n5yqj/gQ2j5eO1lOGh09Q7tOMgD33L9iP47ec0xQjopj0Vms+V3FA\ncEmA1f5z+iOOkhGA61EpRaDeOlyQIYZhTBWZIh6BFY5UWuEgR984q3UfTPK7cP9V\n0bbR+pao4XH29+4ohAKUKjlzujIjlwOS/lJmGYHFtw3mk8/6BS3Iu5OQjR4UC+/g\nO4JUZPmGkiu11XItpY80b2azrwcIj7Ej1LsShPL/Yl0k2rT7o4fJtGt6AIkpc/3f\nx1R5hl2VAgMBAAECggEAB2trqW9t63UiXjjxPYCyUAV5xlybekjOu7pq/RoEKdy4\nbwNZPlc5ubIMPqygNSs2HSxuXFj7WNE7go87OS0uwUEz5KtbiYGAi9H+bOdlpsit\niqHr2GkexB2/aZIds7yOFPXW8arCJL/ECALXJTvPpOtEEgqL7DedX7WyYK/fxVZs\ndHnJPnGd/nSzs+4luo1Duv7cVsQTLp5jcHAMrXjK7y7Tve7pOZOVbk4Pu6y28fPG\niOaFutEmXQG14Lf8KC5+oBV3W68KMBZyddzTRtL5x+fK0t4kW6QM4812vP6wz6ZK\nWCBH26n5cHg7vZZbZHOP2LZlyl/owbrKQlV7mkz6pwKBgQDcTl6RfeeN944Zkvxi\nYU0IdQEBXy+bZEUtpDkAv9JuAcBzxEEt+ABI4+7vK9/oZd1NcVlb9kmegqFdqx82\nexNi+zcIUktcF1JHtg54V61SOV3wGO9UDcOEr58Ojj5JaOcJH+nk5qKVL4Ka8OoB\nIygENZNZOJKRLjGVaDujk0czYwKBgQDCo0ldE7emZ3wx2DvbbNJanIZDdX253kQF\nMzgJQgbm5fn6fti8RkO8V/4vDzAB9Q6Xzg7CUIidorV9m/njNNZP5Hkwfk+bGFzf\nMRz7PEFWoeTCcWhUEl73S7ldbtCsU2Y/MVxboCke0nCwdTH87B+RlWX5Z2s/WX25\nbaXWw+BIpwKBgQCGY2AYzH72AS8ztpAyyzwcjpNAbPozhmUUxHrpVBpfdL4bYHqK\nOiCiVjiouVDrCUiINz7VdFXQVcttwjdWGpnm5Wvarai+0pMkn5AQJRvbbpc5IVzN\nH2BHjoIudOLWESHuVQNu2KoQ61x2e8OjUfjVKIFsCbCO02j3xQ+sZukmFQKBgHXN\nAA0ObvuO7JL6bZfrcBEZZQWVKagCBycijcrEpIrBLB/Y//JLkJmApD31MjgtCk0E\nkNg4h8bogHHqoj5Kb19hR5v7BtE22JbZEdJY8K6vQ1YP73XavJFtyl3rQO7bdynO\nBTkLYXffJAcYl02d16l0Q4jEeBuaXUaKP3IRkUBHAoGADLOoK+IEOJCLPSmaPg9U\npbxhTxGabWAnUaWx1SWGrvzol4Frg3hPy01NMiXIc396MPW/OLvcf1HE4/plCzLV\nA649seFj0Zu1fb5geJ6a4IG8YKG20R0IYSnIP1u7vfm7F552cMeCLn1kRq+krw6Q\nSPgM61h7LZOkmdGV2901uRM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storryo@storyyoapp.iam.gserviceaccount.com",
+  "client_id": "103673055957194024287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storryo%40storyyoapp.iam.gserviceaccount.com"
+}
